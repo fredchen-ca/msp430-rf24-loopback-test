@@ -8,5 +8,7 @@ Tested Features:
 - Interfaced via GPIO, SPI with optional IRQ
 
 Programming Language: C
+
 Hardware Platform: MSP430F149 Development Board
+
 Transportation: RF Radio communicated via two Nordic nRF24L01p tranceiver module
